@@ -1,3 +1,3 @@
-# urike-demo
+# Urike-demo
 
-this is just for learning purpose
+This is just for learning purpose !
